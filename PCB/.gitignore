@@ -1,0 +1,19 @@
+# Altium stuff
+History/
+__Previews/
+Output Files/
+Project Logs*/
+Project Outputs*/
+*.PrjPcbStructure
+*.PrjPCBStructure
+Project Outputs for *
+Project Logs for *
+*.[Ll][Oo][Gg]
+# MS access lock file
+*.ldb
+*.~txt
+*.PcbDoc.htm
+*Artwork*
+Status Report.Txt
+*.Dat
+debug.log

@@ -1,0 +1,6 @@
+2020-12-02 - "my_firmware_v01_BLANK_EXAMPLE.hex"
+     * Initial Release Candidate for version 1.0 of Firmware
+     * Branch: master
+     * MD5: 0x
+  - Initial release.
+  - This is a blank file placeholder.  Put an actual firmware binary here.  (.hex, .elf, or .srec format)
